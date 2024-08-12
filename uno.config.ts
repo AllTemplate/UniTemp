@@ -14,7 +14,6 @@ export default defineConfig({
     presetApplet(),
     presetRemRpx({
       baseFontSize: 4,
-      // screenWidth: 750,
     }),
   ],
   transformers: [

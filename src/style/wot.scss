@@ -1,0 +1,13 @@
+
+:root,
+page {
+  // 修改按主题色
+  --wot-color-theme: #37c2bc;
+  // 按钮颜色
+  --wot-button-normal-bg: #1e90ff;
+  --wot-button-primary-bg-color: green;
+}
+.wot-theme-dark body {
+  color: #f5f5f5;
+  background-color: black;
+}
